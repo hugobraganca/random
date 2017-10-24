@@ -1,5 +1,5 @@
-var React = require('react');
-var {Text, View, Button, AppRegistry } = require('react-native'); // variável text recebendo a propriedade text do react-native
+import React from 'react';
+import {Text, View, Button, AppRegistry } from 'react-native'; // variável text recebendo a propriedade text do react-native
 
 
 const geraNumeroAleatorio = () => {
